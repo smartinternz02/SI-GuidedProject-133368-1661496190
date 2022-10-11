@@ -2,7 +2,7 @@
 Hospital Readmission Prediction Using Machine Learning
 
 Documentation Link:
-
+https://workdrive.zohoexternal.com/writer/open/rjieke00961da12fb416a9bb7ce211ee8267c?authId=%7B%22linkId%22%3A%225k2wApaaVtL-LYmlU%22%7D
 
 Video Demonstration link:
 https://www.youtube.com/watch?v=Fk6O29XODss
